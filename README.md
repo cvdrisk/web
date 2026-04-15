@@ -1,4 +1,4 @@
-#≥ Heart Disease Risk & Heart Age Calculator based on TG and HDL
+# Heart Disease Risk & Heart Age Calculator based on TG and HDL
 
 A simple tool that estimates your 10-year heart disease risk and your **heart age** from a standard blood test — just triglycerides and HDL cholesterol.
 
